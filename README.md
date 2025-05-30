@@ -42,3 +42,5 @@ npm install
 ```bash
 npm start
 ```
+
+![preview](https://github.com/ChrystianStrummiello/Controle-Financeiro/issues/1#issue-3104118300)
