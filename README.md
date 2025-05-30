@@ -1,12 +1,46 @@
-# React + Vite
+# 💰 Controle Financeiro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um app web simples para controle de finanças pessoais, feito com **React 19**, **Material UI**, **TailwindCSS** e validação com **Zod**.
 
-Currently, two official plugins are available:
+> Permite cadastrar entradas e saídas, visualizar o saldo total e salvar os dados no `localStorage`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React 19
+- 🎨 Material UI 7
+- 💨 TailwindCSS 4
+- ✅ Zod (validação de formulários)
+- ⚡ Vite 6
+- 🧹 ESLint
+
+---
+
+## 🧪 Funcionalidades
+
+- Adicionar entradas e saídas
+- Calcular o total automaticamente
+- Excluir transações
+- Armazenamento local via localStorage
+- Validação com mensagens de erro
+
+---
+
+## 📦 Instalação
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/ChrystianStrummiello/Controle-Financeiro.git
+```
+2. Instale as dependências:
+```bash
+npm install
+```
+3. Rode o projeto: 
+```bash
+npm start
+```
+![preview do controle financeiro]([https://i.imgur.com/abc123.png](https://imgur.com/a/ZAUpTv2))
+
