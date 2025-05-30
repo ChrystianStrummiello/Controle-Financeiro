@@ -42,5 +42,3 @@ npm install
 ```bash
 npm start
 ```
-![preview do controle financeiro]([https://i.imgur.com/abc123.png](https://imgur.com/a/ZAUpTv2))
-
