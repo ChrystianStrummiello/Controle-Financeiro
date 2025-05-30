@@ -43,4 +43,7 @@ npm install
 npm start
 ```
 
-![preview](https://github.com/ChrystianStrummiello/Controle-Financeiro/issues/1#issue-3104118300)
+---
+
+![preview do app](https://github.com/ChrystianStrummiello/Controle-Financeiro/issues/1#issue-3104118300)
+
